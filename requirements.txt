@@ -1,2 +1,2 @@
 sec_edgar_downloader
-xbrl
+python-xbrl
